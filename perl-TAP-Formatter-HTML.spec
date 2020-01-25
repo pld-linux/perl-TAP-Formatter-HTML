@@ -4,7 +4,6 @@
 #
 %define		pdir	TAP
 %define		pnam	Formatter-HTML
-%include	/usr/lib/rpm/macros.perl
 Summary:	TAP::Formatter::HTML - TAP Test Harness output delegate for HTML output
 Summary(pl.UTF-8):	TAP::Formatter::HTML - moduł TAP Test Harness tworzący wyjście HTML
 Name:		perl-TAP-Formatter-HTML
