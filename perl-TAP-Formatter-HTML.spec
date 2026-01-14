@@ -8,7 +8,7 @@ Summary:	TAP::Formatter::HTML - TAP Test Harness output delegate for HTML output
 Summary(pl.UTF-8):	TAP::Formatter::HTML - moduł TAP Test Harness tworzący wyjście HTML
 Name:		perl-TAP-Formatter-HTML
 Version:	0.09
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
